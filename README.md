@@ -8,5 +8,5 @@
 	
 	
 	dependencies {
-	        implementation 'com.github.jahmad3534:TestLibary:Tag'
+	        implementation 'com.github.jahmad3534:TestLibary:1.1'
 	}
